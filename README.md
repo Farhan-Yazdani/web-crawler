@@ -1,6 +1,6 @@
-# Webcrawler
+# WebCrawler
 
-Crawler using python
+A simple crawler implemented in python using only [requests](https://requests.readthedocs.io/en/latest/) and [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) libraries.
 
 ## Features
 - Capable of using LIFO and FIFO queue (DFS and BFS)
