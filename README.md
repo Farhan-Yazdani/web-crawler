@@ -9,9 +9,9 @@ A simple crawler implemented in python using only [requests](https://requests.re
 - **Robust** : will not get stuck in spider traps due to being implemented as graph search.
 - **Polite** : pause between request.
 
-## How it works: closer look at crawl_bfs_graph_search
+## How it works: closer look at crawl_bfs_graph_search algorithm
 
-Here is a Quick overview (pseudocode)of how the crawler works.
+Here is a Quick overview (pseudocode) of how the crawler works.
 
 
 
